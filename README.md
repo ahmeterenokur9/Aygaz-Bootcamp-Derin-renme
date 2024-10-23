@@ -20,4 +20,4 @@ Model, çeşitli konvolüsyon katmanları, batch normalization ve dropout katman
 Model, balık türlerini sınıflandırmada tatmin edici bir doğruluk oranı göstermektedir. Eğitim ve doğrulama süreçlerine ait kayıp ve doğruluk grafiklerine de yer verilmiştir.
 
 
-Kaggle Notebook Linki : 
+Kaggle Notebook Linki : https://www.kaggle.com/code/ahmeteren9/derin-renme-2
